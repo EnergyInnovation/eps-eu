@@ -1,9 +1,9 @@
 Unit: dimentionless (fraction of CO2 capturable),
-cement and other carbonates,1
-natural gas and petroleum systems,1
-iron and steel,1
-chemicals,1
+cement and other carbonates,0.9
+natural gas and petroleum systems,0.9
+iron and steel,0.9
+chemicals,0.9
 mining,0
 waste management,0
 agriculture,0
-other industries,1
+other industries,0.9
