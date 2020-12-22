@@ -1,17 +1,17 @@
 Start Year Capacities (MW),preexisting,preexisting nonretiring (not used in U.S. dataset),newly built
-hard coal,233798,0,0
-natural gas nonpeaker,255842,0,0
-nuclear,99433,0,0
-hydro,79588,0,0
-onshore wind,94270,0,0
-solar PV,29743,0,0
-solar thermal,1758,0,0
-biomass,5233,0,0
-geothermal,2395,0,0
-petroleum,28890,0,0
-natural gas peaker,197570,0,0
-lignite,6888,0,0
-offshore wind,29,0,0
+hard coal,107695,0,0
+natural gas nonpeaker,238356,0,0
+nuclear,120553,0,0
+hydro,153807,0,0
+onshore wind,171000,0,0
+solar PV,114703,0,0
+solar thermal,2306,0,0
+biomass,32893,0,0
+geothermal,860,0,0
+petroleum,0,0,0
+natural gas peaker,17328,0,0
+lignite,58829,0,0
+offshore wind,18000,0,0
 crude oil,0,0,0
-heavy or residual fuel oil,0,0,0
-municipal solid waste,1810,0,0
+heavy or residual fuel oil,34942,0,0
+municipal solid waste,8900,0,0
