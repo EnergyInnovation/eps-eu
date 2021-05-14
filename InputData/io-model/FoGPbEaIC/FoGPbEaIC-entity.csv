@@ -1,26 +1,29 @@
-Unit: dimensionless (% of output purchased),government,nonenergy industries (MUST contain remainder),labor and consumers,foreign entities,electricity suppliers (NOT USED),coal suppliers (NOT USED),natural gas and petroleum suppliers (NOT USED),biomass and biofuel suppliers (NOT USED),other energy suppliers (NOT USED)
-agriculture and forestry 01T03,0%,70%,24%,5%,0,0,0,0,0
-coal mining 05,0%,97%,3%,0%,0,0,0,0,0
-oil and gas extraction 06,0%,93%,1%,6%,0,0,0,0,0
-other mining and quarrying 07T08,0%,94%,1%,6%,0,0,0,0,0
-food beverage and tobacco 10T12,0%,41%,50%,9%,0,0,0,0,0
-textiles apparel and leather 13T15,0%,35%,48%,17%,0,0,0,0,0
-wood products 16,0%,85%,6%,9%,0,0,0,0,0
-pulp paper and printing 17T18,0%,80%,10%,10%,0,0,0,0,0
-refined petroleum and coke 19,0%,52%,30%,18%,0,0,0,0,0
-chemicals 20,0%,68%,8%,23%,0,0,0,0,0
-rubber and plastic products 22,0%,79%,8%,13%,0,0,0,0,0
-glass and glass products 231,0%,97%,0%,3%,0,0,0,0,0
-cement and other nonmetallic minerals 239,0%,84%,8%,7%,0,0,0,0,0
-iron and steel 241,0%,92%,0%,8%,0,0,0,0,0
-other metals 242,0%,92%,0%,8%,0,0,0,0,0
-metal products except machinery and vehicles 25,0%,86%,4%,10%,0,0,0,0,0
-computers and electronics 26,0%,57%,14%,29%,0,0,0,0,0
-appliances and electrical equipment 27,0%,63%,13%,24%,0,0,0,0,0
-other machinery 28,0%,64%,1%,35%,0,0,0,0,0
-road vehicles 29,0%,50%,23%,26%,0,0,0,0,0
-nonroad vehicles 30,0%,50%,6%,43%,0,0,0,0,0
-other manufacturing 31T33,1%,67%,19%,13%,0,0,0,0,0
-energy pipelines and gas processing 352T353,0%,90%,10%,0%,0,0,0,0,0
-water and waste 36T39,6%,66%,24%,3%,0,0,0,0,0
-construction 41T43,0%,97%,3%,0%,0,0,0,0,0
+Unit: dimensionless (% of output purchased),government,nonenergy industries (MUST contain remainder),labor and consumers,foreign entities,electricity suppliers (NOT USED),coal suppliers (NOT USED),natural gas and petroleum suppliers (NOT USED),biomass and biofuel suppliers (NOT USED),other energy suppliers (NOT USED),,
+agriculture and forestry 01T03,0.5%,70%,24%,5%,0,0,0,0,0,,
+coal mining 05,0.0%,100%,0%,0%,0,0,0,0,0,,
+oil and gas extraction 06,0.0%,100%,0%,0%,0,0,0,0,0,,
+other mining and quarrying 07T08,0.0%,100%,0%,0%,0,0,0,0,0,,
+food beverage and tobacco 10T12,0.1%,41%,50%,9%,0,0,0,0,0,,
+textiles apparel and leather 13T15,0.0%,35%,48%,17%,0,0,0,0,0,,
+wood products 16,0.0%,85%,6%,9%,0,0,0,0,0,,
+pulp paper and printing 17T18,0.1%,80%,10%,10%,0,0,0,0,0,,
+refined petroleum and coke 19,0.1%,52%,30%,18%,0,0,0,0,0,,
+chemicals 20,0.1%,68%,8%,23%,0,0,0,0,0,,
+rubber and plastic products 22,0.0%,79%,8%,13%,0,0,0,0,0,,
+glass and glass products 231,0.0%,100%,0%,0%,0,0,0,0,0,,
+cement and other nonmetallic minerals 239,0.0%,100%,0%,0%,0,0,0,0,0,,
+iron and steel 241,0.0%,100%,0%,0%,0,0,0,0,0,,
+other metals 242,0.0%,100%,0%,0%,0,0,0,0,0,,
+metal products except machinery and vehicles 25,0.0%,86%,4%,10%,0,0,0,0,0,,
+computers and electronics 26,0.3%,57%,14%,29%,0,0,0,0,0,,
+appliances and electrical equipment 27,0.0%,63%,13%,24%,0,0,0,0,0,,
+other machinery 28,0.0%,64%,1%,35%,0,0,0,0,0,,
+road vehicles 29,0.0%,50%,23%,26%,0,0,0,0,0,,
+nonroad vehicles 30,0.2%,50%,6%,43%,0,0,0,0,0,,
+other manufacturing 31T33,0.9%,67%,19%,13%,0,0,0,0,0,,
+energy pipelines and gas processing 352T353,0.0%,100%,0%,0%,0,0,0,0,0,,
+water and waste 36T39,6.4%,66%,24%,3%,0,0,0,0,0,,
+construction 41T43,0.3%,97%,3%,0%,0,0,0,0,0,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
