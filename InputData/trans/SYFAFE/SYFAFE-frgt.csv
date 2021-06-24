@@ -1,9 +1,9 @@
 Fuel Economy (freight ton*miles/BTU),battery electric vehicle,natural gas vehicle,gasoline vehicle,diesel vehicle,plugin hybrid vehicle,LPG vehicle,hydrogen vehicle
-LDVs,9.03E-05,4.19E-05,4.47E-05,6.04E-05,0.00E+00,3.63E-05,6.91E-05
+LDVs,9.51E-05,4.53E-05,4.93E-05,6.54E-05,0.00E+00,3.79E-05,7.27E-05
 HDVs,1.23E-03,4.33E-04,4.33E-04,4.33E-04,0.00E+00,0.00E+00,9.38E-04
-aircraft,0.00E+00,0.00E+00,0.00E+00,1.80E-04,0.00E+00,0.00E+00,0.00E+00
-rail,5.39E-03,0.00E+00,0.00E+00,3.56E-03,0.00E+00,0.00E+00,0.00E+00
-ships,0.00E+00,0.00E+00,0.00E+00,1.21E-03,0.00E+00,0.00E+00,0.00E+00
+aircraft,0.00E+00,0.00E+00,0.00E+00,1.82E-04,0.00E+00,0.00E+00,0.00E+00
+rail,5.48E-03,0.00E+00,0.00E+00,3.54E-03,0.00E+00,0.00E+00,0.00E+00
+ships,0.00E+00,0.00E+00,0.00E+00,1.23E-03,0.00E+00,0.00E+00,0.00E+00
 motorbikes,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00
 ,,,,,,,
 ,,,,,,,
