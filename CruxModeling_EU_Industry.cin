@@ -1,0 +1,12 @@
+Fraction of Cement Measures Achieved = 0.23
+Fraction of Industrial Fuel Use Shifted to Other Fuels[chemicals 20,electricity if] = 0.99
+Fraction of Industrial Fuel Use Shifted to Other Fuels[chemicals 20,hydrogen if] = 0.01
+Fraction of Industrial Fuel Use Shifted to Other Fuels[iron and steel 241,electricity if] = 0.88
+Fraction of Industrial Fuel Use Shifted to Other Fuels[iron and steel 241,hydrogen if] = 0.1
+Industry Sector Fraction of Potential Additional CCS Achieved[cement and other nonmetallic minerals 239,energy related emissions] = 1
+Industry Sector Fraction of Potential Additional CCS Achieved[cement and other nonmetallic minerals 239,process emissions] = 0.31
+Industry Sector Fraction of Potential Additional CCS Achieved[iron and steel 241,energy related emissions] = 1
+Industry Sector Fraction of Potential Additional CCS Achieved[iron and steel 241,process emissions] = 1
+Percent Reduction in Nonenergy Nonagriculture Industry Product Demand[chemicals 20] = 0.665
+Percent Reduction in Nonenergy Nonagriculture Industry Product Demand[cement and other nonmetallic minerals 239] = 0.42
+Policy Implementation Schedule Selector = 4
