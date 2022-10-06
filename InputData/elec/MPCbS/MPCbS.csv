@@ -1,17 +1,17 @@
-Electricity Source,Max Potential Capacity (MW)
+﻿Electricity Source,Max Potential Capacity (MW)
 hard coal,9000000000000
 natural gas nonpeaker,9000000000000
 nuclear,9000000000000
-hydro,263085
-onshore wind,4750000
-solar PV,9739000
-solar thermal,1724000
-biomass,270414
-geothermal,299543
+hydro,267377
+onshore wind,4314000
+solar PV,9046000
+solar thermal,1601325
+biomass,286615
+geothermal,294749
 petroleum,9000000000000
 natural gas peaker,9000000000000
 lignite,9000000000000
-offshore wind,3800000
+offshore wind,2760000
 crude oil,9000000000000
 heavy or residual fuel oil,9000000000000
-municipal solid waste,9469
+municipal solid waste,7726
