@@ -1,8 +1,8 @@
 Elasticity (dimensionless),battery electric vehicle,natural gas vehicle,gasoline vehicle,diesel vehicle,plugin hybrid vehicle,LPG vehicle,hydrogen vehicle
-electricity,0.099,0,0,0,0.031888279,0,0
+electricity,0.099,0,0,0,0.031878573,0,0
 natural gas,0,0.099,0,0,0,0,0
 petroleum gasoline,0,0,0.099,0,0,0,0
-petroleum diesel,0,0,0,0.099,0.067111721,0,0
+petroleum diesel,0,0,0,0.099,0.067121427,0,0
 biofuel gasoline,0,0,0,0,0,0,0
 biofuel diesel,0,0,0,0,0,0,0
 jet fuel,0,0,0,0,0,0,0
