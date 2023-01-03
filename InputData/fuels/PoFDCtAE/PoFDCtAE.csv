@@ -1,22 +1,22 @@
 Percentage Change in Demand that Alters Exports (dimensionless) - From type (below)  / To type (right),electricity (not used in this variable),hard coal,natural gas,nuclear,hydro (is not a fuel),wind (is not a fuel),solar (is not a fuel),biomass,petroleum gasoline,petroleum diesel,biofuel gasoline,biofuel diesel,jet fuel or kerosene,heat (not used in this variable),geothermal (is not a fuel),lignite,crude oil,heavy fuel oil,LPG propane or butane,municipal solid waste,hydrogen
 electricity (not used in this variable),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-hard coal,0,0.282219019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-natural gas,0,0,0.699547072,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hard coal,0,0.360204307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+natural gas,0,0,0.638136624,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 nuclear,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 hydro (is not a fuel),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 wind (is not a fuel),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 solar (is not a fuel),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-biomass,0,0,0,0,0,0,0,0.044660572,0,0,0,0,0,0,0,0,0,0,0,0,0
-petroleum gasoline,0,0,0,0,0,0,0,0,0.574400267,0,0,0,0,0,0,0,0.425599733,0,0,0,0
-petroleum diesel,0,0,0,0,0,0,0,0,0,0.263793311,0,0,0,0,0,0,0.736206689,0,0,0,0
-biofuel gasoline,0,0,0,0,0,0,0,0,0,0,0.468485108,0,0,0,0,0,0,0,0,0,0
-biofuel diesel,0,0,0,0,0,0,0,0,0,0,0,0.576305688,0,0,0,0,0,0,0,0,0
-jet fuel or kerosene,0,0,0,0,0,0,0,0,0,0,0,0,0.250431664,0,0,0,0.749568336,0,0,0,0
+biomass,0,0,0,0,0,0,0,0.047508143,0,0,0,0,0,0,0,0,0,0,0,0,0
+petroleum gasoline,0,0,0,0,0,0,0,0,0.584360793,0,0,0,0,0,0,0,0.415639207,0,0,0,0
+petroleum diesel,0,0,0,0,0,0,0,0,0,0.274303143,0,0,0,0,0,0,0.725696857,0,0,0,0
+biofuel gasoline,0,0,0,0,0,0,0,0,0,0,0.560225473,0,0,0,0,0,0,0,0,0,0
+biofuel diesel,0,0,0,0,0,0,0,0,0,0,0,0.624605851,0,0,0,0,0,0,0,0,0
+jet fuel or kerosene,0,0,0,0,0,0,0,0,0,0,0,0,0.347632637,0,0,0,0.652367363,0,0,0,0
 heat (not used in this variable),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 geothermal (is not a fuel),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-lignite,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.016400985,0,0,0,0,0
+lignite,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.016513421,0,0,0,0,0
 crude oil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-heavy fuel oil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.520471645,0.479528355,0,0,0
-LPG propane or butane,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.777619404,0,0.222380596,0,0
-municipal solid waste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.003132951,0
+heavy fuel oil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.461637324,0.538362676,0,0,0
+LPG propane or butane,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.779098394,0,0.220901606,0,0
+municipal solid waste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.003448961,0
 hydrogen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
