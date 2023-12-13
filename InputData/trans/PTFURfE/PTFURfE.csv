@@ -1,8 +1,7 @@
-Percentage Reduction (dimensionless),Passengers,Freight,,,
-LDVs,0.422,0.422,,,
-HDVs,0.422,0.422,,,
-aircraft,0.339,0.339,,,
-rail,0.339,0.339,,,
-ships,0.339,0.339,,,
-motorbikes,0.422,0.422,,,
-,,,,,
+Percentage Reduction (dimensionless),Passengers,Freight
+LDVs,0.686,0.686
+HDVs,0.686,0.686
+aircraft,0.447,0.447
+rail,0.447,0.447
+ships,0.447,0.447
+motorbikes,0.686,0.686

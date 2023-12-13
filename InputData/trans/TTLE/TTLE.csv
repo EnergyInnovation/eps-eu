@@ -1,7 +1,7 @@
 Logit exponent,Passenger,Freight
-LDVs,-2,-2
-HDVs,-2,-2
-aircraft,-2,-2
-rail,-2,-2
-ships,-2,-2
-motorbikes,-2,-2
+LDVs,-40,-40
+HDVs,-30,-30
+aircraft,-1,-1
+rail,-1,-1
+ships,-1,-1
+motorbikes,-40,-40
