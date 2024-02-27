@@ -1,11 +1,11 @@
 index,heating,cooling & ventilation,envelope,lighting,appliances,other
-electricity (BTU),6.95101E+14,3.64048E+14,0,2.08268E+14,1.74436E+15,0
-coal (BTU),3.20458E+14,0,0,0,0,0
-natural gas (BTU),4.43201E+15,0,0,0,0,0
-petroleum diesel (BTU),1.39959E+15,0,0,0,0,0
-heat (BTU),9.08805E+14,0,0,0,0,0
-biomass (BTU),1.87586E+15,0,0,0,0,0
+electricity (BTU),4.97325E+14,3.35824E+14,0,1.74731E+14,1.4266E+15,0
+coal (BTU),2.61821E+14,0,0,0,0,0
+natural gas (BTU),3.57707E+15,0,0,0,0,0
+petroleum diesel (BTU),1.21828E+15,0,0,0,0,0
+heat (BTU),9.17513E+14,0,0,0,0,0
+biomass (BTU),1.76596E+15,0,0,0,0,0
 kerosene (BTU),0,0,0,0,0,0
 heavy or residual fuel oil (BTU),0,0,0,0,0,0
 LPG propane or butane (BTU),0,0,0,0,0,0
-hydrogen (BTU),1.59332E+11,0,0,0,0,0
+hydrogen (BTU),1.11184E+11,0,0,0,0,0
