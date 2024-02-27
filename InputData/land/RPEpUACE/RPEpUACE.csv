@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ,Rebound Emis Factor (dimensionless)
 CO2,0
 VOC,0
@@ -12,18 +11,3 @@ OC,0
 CH4,1.54E-03
 N2O,3.94E-05
 F gases,0
-=======
-,Rebound Emis Factor (dimensionless)
-CO2,0
-VOC,0
-CO,0
-NOx,0
-PM10,0
-PM25,0
-SOx,0
-BC,0
-OC,0
-CH4,4.30E-04
-N2O,3.50E-05
-F gases,0
->>>>>>> parent of b424bd6 (no message)

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 4.0.0
-=======
-3.4.5
->>>>>>> parent of b424bd6 (no message)

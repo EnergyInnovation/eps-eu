@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Unit: dimensionless (% of output purchased),government,domestic industries (MUST contain remainder),labor and consumers,foreign entities
 agriculture and forestry 01T03,0.011161585,0.672811833,0.201157683,0.114868899
 coal mining 05,0.191294823,0.582464895,0.001916904,0.224323379
@@ -25,31 +24,3 @@ other manufacturing 31T33,0.038973852,0.44454085,0.448750696,0.067734603
 energy pipelines and gas processing 352T353,0.106036115,0.418242338,0.471255078,0.00446647
 water and waste 36T39,0.161711311,0.48471915,0.349632105,0.003937434
 construction 41T43,0.067457771,0.932457308,0,8.49205E-05
-=======
-Unit: dimensionless (% of output purchased),government,nonenergy industries (MUST contain remainder),labor and consumers,foreign entities,electricity suppliers (NOT USED),coal suppliers (NOT USED),natural gas and petroleum suppliers (NOT USED),biomass and biofuel suppliers (NOT USED),other energy suppliers (NOT USED)
-agriculture and forestry 01T03,0.005767566,0.715073565,0.225395466,0.053763402,0,0,0,0,0
-coal mining 05,0,1,0,0,0,0,0,0,0
-oil and gas extraction 06,0,1,0,0,0,0,0,0,0
-other mining and quarrying 07T08,0,1,0,0,0,0,0,0,0
-food beverage and tobacco 10T12,0.001098535,0.412871038,0.496157539,0.089872888,0,0,0,0,0
-textiles apparel and leather 13T15,0.000472189,0.395038439,0.422036476,0.182452897,0,0,0,0,0
-wood products 16,1.68E-06,0.846038215,0.058701069,0.09525904,0,0,0,0,0
-pulp paper and printing 17T18,0.000596729,0.795981921,0.095264598,0.108156752,0,0,0,0,0
-refined petroleum and coke 19,0.000584993,0.531660445,0.276119144,0.191635418,0,0,0,0,0
-chemicals 20,0.000748068,0.694121137,0.069911606,0.235219188,0,0,0,0,0
-rubber and plastic products 22,0.000339227,0.79850923,0.070701391,0.130450151,0,0,0,0,0
-glass and glass products 231,0,1,0,0,0,0,0,0,0
-cement and other nonmetallic minerals 239,0,1,0,0,0,0,0,0,0
-iron and steel 241,0,1,0,0,0,0,0,0,0
-other metals 242,0,1,0,0,0,0,0,0,0
-metal products except machinery and vehicles 25,0.000251231,0.867786638,0.03360288,0.098359252,0,0,0,0,0
-computers and electronics 26,0.003730153,0.575015659,0.125975256,0.295278932,0,0,0,0,0
-appliances and electrical equipment 27,0.00022424,0.645182659,0.105550757,0.249042345,0,0,0,0,0
-other machinery 28,1.23E-05,0.635744685,0.009105748,0.355137315,0,0,0,0,0
-road vehicles 29,5.26E-05,0.527993427,0.209355544,0.262598391,0,0,0,0,0
-nonroad vehicles 30,0.002104356,0.503347585,0.051354134,0.443193925,0,0,0,0,0
-other manufacturing 31T33,0.005083205,0.893348126,0.063946131,0.037622538,0,0,0,0,0
-energy pipelines and gas processing 352T353,0,1,0,0,0,0,0,0,0
-water and waste 36T39,0.043469218,0.686739049,0.241590765,0.028200968,0,0,0,0,0
-construction 41T43,0,1,0,0,0,0,0,0,0
->>>>>>> parent of b424bd6 (no message)
