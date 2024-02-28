@@ -1,5 +1,5 @@
 Unit: dimensionless (% of capacity available),Percent of capacity
-hard coal,0.6
+hard coal,0.9
 natural gas steam turbine,0.9
 natural gas combustion turbine,0.9
 nuclear,1
@@ -7,8 +7,8 @@ hydro,1
 onshore wind,1
 solar pv,1
 solar thermal,1
-biomass,0.6
-geothermal,0.85
+biomass,0.9
+geothermal,0.9
 petroleum,0.9
 natural gas peaker,0.9
 lignite,0.6

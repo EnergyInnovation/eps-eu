@@ -1,4 +1,4 @@
-Electricity Source,Qualifies for RPS (Boolean)
+﻿Electricity Source,Qualifies for RPS (Boolean)
 hard coal,0
 natural gas steam turbine,0
 natural gas combined cycle,0
@@ -16,10 +16,10 @@ offshore wind,1
 crude oil,0
 heavy or residual fuel oil,0
 municipal solid waste,0
-hard coal w CCS,1
-natural gas combined cycle w CCS,1
-biomass w CCS,1
-lignite w CCS,1
-small modular reactor,1
-hydrogen combustion turbine,1
-hydrogen combined cycle,1
+hard coal w CCS,0
+natural gas combined cycle w CCS,0
+biomass w CCS,0
+lignite w CCS,0
+small modular reactor,0
+hydrogen combustion turbine,0
+hydrogen combined cycle,0
