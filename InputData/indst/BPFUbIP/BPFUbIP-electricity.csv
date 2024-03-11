@@ -1,5 +1,9 @@
 ,Boilers,Nonboiler low temp,Nonboiler med temp,Nonboiler high temp,Cooling,Machine Drive,Electrochem,Other
+<<<<<<< HEAD
 agriculture and forestry 01T03,1,0.587058665,0,0,0,0.412941335,0,0
+=======
+agriculture and forestry 01T03,0,0.587058665,0,0,0,0.412941335,0,0
+>>>>>>> EU-2024-develop
 coal mining 05,0,0,0,0,0,1,0,0
 oil and gas extraction 06,0,0,0,0,0,1,0,0
 other mining and quarrying 07T08,0,0,0,0,0,1,0,0
