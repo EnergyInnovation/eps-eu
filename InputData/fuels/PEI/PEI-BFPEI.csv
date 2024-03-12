@@ -1,5 +1,5 @@
-Pollutant Emissions Intensity (g pollutant/BTU),electricity,coal,natural gas,petroleum diesel,heat,biomass,kerosene,heavy or residual fuel oil,LPG propane or butane,hydrogen
-CO2,0.0000,0.1008,0.0596,0.0767,0.0000,0.0964,0.0770,0.0770,0.0696,0.0000
+﻿Pollutant Emissions Intensity (g pollutant/BTU),electricity,coal,natural gas,petroleum diesel,heat,biomass,kerosene,heavy or residual fuel oil,LPG propane or butane,hydrogen
+CO2,0.0000,0.1008,0.0596,0.0767,0.0000,0.0000,0.0770,0.0770,0.0696,0.0000
 VOC,0.0000,0.0005,0.0000,0.0000,0.0000,0.0006,0.0000,0.0000,0.0000,0.0000
 CO,0.0000,0.0049,0.0000,0.0000,0.0000,0.0042,0.0001,0.0000,0.0000,0.0000
 NOx,0.0000,0.0001,0.0001,0.0001,0.0000,0.0001,0.0001,0.0001,0.0001,0.0001
