@@ -1,0 +1,12 @@
+Minimum Required ZEV Sales Percentage[passenger,LDVs] = 1
+Minimum Required ZEV Sales Percentage[passenger,HDVs] = 0.9667
+Minimum Required ZEV Sales Percentage[freight,LDVs] = 1
+Minimum Required ZEV Sales Percentage[freight,HDVs] = 0.9
+Renewable Portfolio Std Percentage = 0.68
+Policy Implementation Schedule Selector = 4
+Additional Carbon Tax Rate[transportation sector] = 40
+Additional Carbon Tax Rate[electricity sector] = 61.87
+Additional Carbon Tax Rate[residential buildings sector] = 40
+Additional Carbon Tax Rate[commercial buildings sector] = 40
+Additional Carbon Tax Rate[industry sector] = 61.87
+Additional Carbon Tax Rate[district heat and hydrogen sector] = 151.87
