@@ -1,7 +1,7 @@
 ,Discount Rate (dimensionless)
-LDVs,0.15
-HDVs,0.15
-aircraft,0.15
-rail,0.15
-ships,0.15
-motorbikes,0.15
+LDVs,0.11
+HDVs,0.095
+aircraft,0.095
+rail,0.075
+ships,0.095
+motorbikes,0.11
