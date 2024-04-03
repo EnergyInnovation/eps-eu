@@ -1,9 +1,9 @@
-Unit: dimensionless,Weibull Parameter B (Shape Parameter)
+﻿Unit: dimensionless,Weibull Parameter B (Shape Parameter)
 hard coal,10.39109539
 natural gas steam turbine,16.29789178
 natural gas combined cycle,20.74236534
 nuclear,0.9
-hydro,0.001
+hydro,20.74236534
 wind,0.001
 solar PV,0.001
 solar thermal,0.001

@@ -1,15 +1,7 @@
 Building Component (years),urban residential,rural residential,commercial
-heating,24.11,24.11,24.11
-cooling and ventilation,14.50,14.50,16.63
-envelope,84.38,84.38,84.38
-lighting,14.75,14.75,5.90
-appliances,13.00,13.00,13.00
-other component,18.00,18.00,18.00
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+heating,19,19,19
+cooling and ventilation,16,16,16
+envelope,250,250,176
+lighting,9,9,9
+appliances,14,14,14
+other component,15,15,15
