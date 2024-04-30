@@ -1,9 +1,9 @@
-Additional Carbon Tax Rate[transportation sector] = 79.73
-Additional Carbon Tax Rate[electricity sector] = 79.73
-Additional Carbon Tax Rate[residential buildings sector] = 185.52
-Additional Carbon Tax Rate[commercial buildings sector] = 185.52
-Additional Carbon Tax Rate[industry sector] = 79.73
-Additional Carbon Tax Rate[district heat and hydrogen sector] = 79.73
+Additional Carbon Tax Rate[transportation sector] = 83.62
+Additional Carbon Tax Rate[electricity sector] = 66.83
+Additional Carbon Tax Rate[residential buildings sector] = 194.51
+Additional Carbon Tax Rate[commercial buildings sector] = 194.51
+Additional Carbon Tax Rate[industry sector] = 83.62
+Additional Carbon Tax Rate[district heat and hydrogen sector] = 66.83
 Boolean Use Non BAU Carbon Tax Border Adjustment Industry Qualification = 1
 Boolean Use Non BAU Carbon Tax Industry Category Qualification = 1
 Boolean Use Non BAU Carbon Tax Vehicle Type Qualification = 1
