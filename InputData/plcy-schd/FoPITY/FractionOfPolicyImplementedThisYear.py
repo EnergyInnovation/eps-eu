@@ -5281,6 +5281,7 @@ PolicyElements = (
   ),
   (("heat fuel type shifting"),
     ("Schedule 1",(2022,0),(2050,1)),
+    ("Schedule 2",(2022,0),(2026,0.31),(2035,0.3),(2045,0.73),(2050,1)),
   ),
   (("hydgn shift production pathways"),
     ("Schedule 1",(2022,0),(2050,1)),

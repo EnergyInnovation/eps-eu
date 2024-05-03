@@ -12,6 +12,7 @@ Boolean Use Non BAU Carbon Tax Industry Category Qualification = 1
 Boolean Use Non BAU Carbon Tax Vehicle Type Qualification = 1
 Boolean Use Non BAU LCFS Vehicle Types = 1
 Boolean Use Non BAU ZEV Qualifying Vehicle Definitions = 1
+Fraction of District Heat Fuel Use Shifted to Other Fuels = 1
 Fraction of Methane Capture Opportunities Achieved[coal mining 05] = 0.75
 Fraction of Methane Capture Opportunities Achieved[oil and gas extraction 06] = 0.75
 Fraction of Methane Capture Opportunities Achieved[energy pipelines and gas processing 352T353] = 0.75
