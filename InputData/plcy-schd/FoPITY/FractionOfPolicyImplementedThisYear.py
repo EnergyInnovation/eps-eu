@@ -5286,7 +5286,7 @@ PolicyElements = (
   ),
   (("hydgn shift production pathways"),
     ("Schedule 1",(2022,0),(2050,1)),
-    ("Schedule 2",(2023,0),(2030,0.71),(2035,1),(2050,1)),
+    ("Schedule 2",(2022,0),(2023,0),(2025,0.157),(2030,0.71),(2035,1),(2050,1)),
   ),
   (("land forest set asides"),
     ("Schedule 1",(2022,0),(2050,1)),
