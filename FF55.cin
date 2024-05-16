@@ -100,8 +100,8 @@ Percentage Improvement in Eqpt Efficiency Standards above BAU[iron and steel 241
 Percentage Improvement in Eqpt Efficiency Standards above BAU[other metals 242,electricity if] = 0.06
 Percentage Improvement in Eqpt Efficiency Standards above BAU[other metals 242,natural gas if] = 0.122
 Policy Implementation Schedule Selector = 2
-Share of Preexisting Buildings Subject to Retrofitting[urban residential] = 0.613
-Share of Preexisting Buildings Subject to Retrofitting[rural residential] = 0.613
+Share of Preexisting Buildings Subject to Retrofitting[urban residential] = 0.66
+Share of Preexisting Buildings Subject to Retrofitting[rural residential] = 0.66
 Share of Preexisting Buildings Subject to Retrofitting[commercial] = 0.26
 Toggle Whether Carbon Tax Affects Process Emissions[coal mining 05] = 1
 Toggle Whether Carbon Tax Affects Process Emissions[oil and gas extraction 06] = 1
