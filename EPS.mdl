@@ -12727,7 +12727,7 @@ BCS BAU CCS Subsidy[CCS Sectors]:INTERPOLATE::=
 
 BCS Duration of Subsidies for Carbon Sequestration:INTERPOLATE::=
 	GET DIRECT DATA(
-	   'InputData/CCS/BCS/BCS-DoSfCS.csv',
+	   'InputData/ccs/BCS/BCS-DoSfCS.csv',
 	   ',',
 	   '1',
 	   'B2'
@@ -63915,7 +63915,7 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 :L<%^E!@
 1:test.vdfx
 4:Time
-5:GaHEbIC Government Expenditures by ISIC Code[ISIC Code]
+5:BCS Duration of Subsidies for Carbon Sequestration
 6:Acute bronchitis
 6:age 16to19
 6:age 20to24
@@ -66480,7 +66480,7 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 6:Year2099
 6:Year2100
 9:test
-19:155,1
+19:62,7
 24:2022
 25:2050
 26:2050
