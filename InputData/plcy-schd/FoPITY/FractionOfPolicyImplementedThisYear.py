@@ -1823,6 +1823,7 @@ PolicyElements = (
   ),
   (("bldgs min fraction distributed solar"),
     ("Schedule 1",(2022,0),(2050,1)),
+    ("Schedule 2",(2022,0),(2023,0),(2024,0.25),(2030,1),(2050,1)),
   ),
   (("indst methane capture","agriculture and forestry 01T03"),
     ("Schedule 1",(2022,0),(2050,1)),
