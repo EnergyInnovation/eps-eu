@@ -12,11 +12,11 @@
 # Rather than including input and output file names in the code below, we assign all the file
 # names to variables in this section.  This allows the names to be easily changed if desired.
 ModelFile = "EPS.mdl" # The name of the Vensim model file (typically with .mdl or .vpm extension)
-FirstYear = "2022" # The first year you wish to include in the output file (cannot be prior to first simulated year)
+FirstYear = "2021" # The first year you wish to include in the output file (cannot be prior to first simulated year)
 FinalYear = "2050" # The last year you wish to include in the output file (cannot be later than last simulated year)
 OutputScript = "GeneratedDataLoggingScript.cmd" # The desired filename of the Vensim command script to be generated
 OutputVarsFile = "OutputVarsToExport.lst" # The name of the file containing a list of variables to be included in the RunResultsFile
-SettingsFiles = ["FF55"]
+SettingsFiles = [""]
 	# This is the list of settings files to be tested, with .cin extensions.
 	# Include a blank entry (e.g. "") to include BAU case.
 
@@ -34,7 +34,7 @@ for SettingsFile in SettingsFiles:
 	# that Vensim creates (or "NoSettings"), and it is included in a column in the RunResultsFile.
 	SettingsFileNameLen = len(SettingsFile)
 	if SettingsFileNameLen < 5:
-		RunName = "FF55"
+		RunName = "NoSettings"
 	else:
 		RunName = SettingsFile[:SettingsFileNameLen - 4]
 	RunResultsFile = RunName + ".tsv" # The desired filename for the file containing model run results
