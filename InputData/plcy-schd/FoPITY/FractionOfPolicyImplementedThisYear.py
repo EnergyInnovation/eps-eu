@@ -31,6 +31,8 @@ PolicyElements = (
 
   (("trans fuel economy standards","passenger","LDVs"),
     ("Schedule 1",(2022,0),(2050,1)),
+    ("Schedule 2",(2022,0),(2030,0),(2050,1)),
+    ("Schedule 3",(2022,0),(2030,0),(2050,1)),
   ),
   (("trans fuel economy standards","passenger","HDVs"),
     ("Schedule 1",(2022,0),(2050,1)),
@@ -51,6 +53,8 @@ PolicyElements = (
   ),
   (("trans fuel economy standards","freight","LDVs"),
     ("Schedule 1",(2022,0),(2050,1)),
+    ("Schedule 2",(2022,0),(2030,0),(2050,1)),
+    ("Schedule 3",(2022,0),(2030,0),(2050,1)),
   ),
   (("trans fuel economy standards","freight","HDVs"),
     ("Schedule 1",(2022,0),(2050,1)),
