@@ -5013,7 +5013,6 @@ PolicyElements = (
     ("Schedule 1",(2022,0),(2050,1)),
   ),
   (("indst shift to nonanimal products"),
-    ("Schedule 1",(2022,0),(2050,1)),
     ("Schedule 1",(2022,0),(2030,0),(2050,1)),
   ),
   (("indst reduce fossil fuel exports","electricity"),
