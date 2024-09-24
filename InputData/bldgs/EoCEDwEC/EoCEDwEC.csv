@@ -1,11 +1,11 @@
 Elasticity by Fuel (dimensionless),Urban Residential,Rural Residential,Commercial
-electricity,-0.03,-0.03,-0.11
-coal,-0.08,-0.08,-0.13
-natural gas,-0.06,-0.06,-0.28
-petroleum diesel,-0.08,-0.08,-0.13
-heat,0,0,0
-biomass,0,0,0
-kerosene,-0.08,-0.08,-0.13
-heavy or residual fuel oil,-0.08,-0.08,-0.13
-LPG propane or butane,-0.06,-0.06,-0.28
-hydrogen,-0.03,-0.03,-0.11
+electricity,-0.604,-0.604,-0.703
+coal,0.000,0.000,0.000
+natural gas,-0.669,-0.669,-0.778
+petroleum diesel,-0.461,-0.461,-0.536
+heat,-0.674,-0.674,-0.784
+biomass,-0.669,-0.669,-0.778
+kerosene,0.000,0.000,0.000
+heavy or residual fuel oil,-0.630,-0.630,-0.733
+LPG propane or butane,0.000,0.000,0.000
+hydrogen,0.000,0.000,0.000
