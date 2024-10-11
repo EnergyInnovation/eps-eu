@@ -1,9 +1,9 @@
-Additional Carbon Tax Rate[transportation sector] = 167.4
-Additional Carbon Tax Rate[electricity sector] = 79.8
-Additional Carbon Tax Rate[residential buildings sector] = 278.28
-Additional Carbon Tax Rate[commercial buildings sector] = 278.28
-Additional Carbon Tax Rate[industry sector] = 167.4
-Additional Carbon Tax Rate[district heat and hydrogen sector] = 79.8
+Additional Carbon Tax Rate[transportation sector] = 192.4
+Additional Carbon Tax Rate[electricity sector] = 101.79
+Additional Carbon Tax Rate[residential buildings sector] = 291.08
+Additional Carbon Tax Rate[commercial buildings sector] = 291.08
+Additional Carbon Tax Rate[industry sector] = 192.4
+Additional Carbon Tax Rate[district heat and hydrogen sector] = 64.33
 Additional Fuel Tax or Subsidy Rate by Fuel[hydrogen,industry sector] = 0.2491
 Additional LCFS Percentage = 0.745763
 Boolean Ban New Power Plants[biomass w CCS es] = 1
