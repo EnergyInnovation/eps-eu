@@ -13,9 +13,6 @@ Boolean Use Non BAU Carbon Tax Border Adjustment Industry Qualification = 1
 Boolean Use Non BAU Carbon Tax Industry Category Qualification = 1
 Boolean Use Non BAU Carbon Tax Vehicle Type Qualification = 1
 Boolean Use Non BAU LCFS Vehicle Types = 1
-Boolean Use Non BAU Mandated Capacity Construction Schedule[onshore wind es] = 1
-Boolean Use Non BAU Mandated Capacity Construction Schedule[solar PV es] = 1
-Boolean Use Non BAU Mandated Capacity Construction Schedule[offshore wind es] = 1
 Boolean Use Non BAU ZEV Qualifying Vehicle Definitions = 1
 Fraction of Eligible Industrial Energy Use Shifted to Electricity[agriculture and forestry 01T03,boilers] = 0.023
 Fraction of Eligible Industrial Energy Use Shifted to Electricity[agriculture and forestry 01T03,nonboiler low temp] = 0.309
@@ -75,7 +72,6 @@ Fraction of New Bldg Components Shifted to Other Fuels[appliances,urban resident
 Fraction of New Bldg Components Shifted to Other Fuels[appliances,commercial] = 0.0361
 Fraction of New Bldg Components Shifted to Other Fuels[other component,urban residential] = 0.0545
 Fraction of New Bldg Components Shifted to Other Fuels[other component,commercial] = 0.03913
-Min Fraction of Total Elec Demand to be Met by Distributed Solar PV = 0.169
 Minimum Required ZEV Sales Percentage[passenger,LDVs] = 1
 Minimum Required ZEV Sales Percentage[passenger,HDVs] = 0.95
 Minimum Required ZEV Sales Percentage[freight,LDVs] = 1
