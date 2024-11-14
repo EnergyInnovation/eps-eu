@@ -1,7 +1,7 @@
 ﻿Unit: dimensionless (% of costs),Share of costs covered to be deemed profitable
-hard coal,1
-natural gas steam turbine,1
-natural gas combustion turbine,1
+hard coal,1.3
+natural gas steam turbine,1.3
+natural gas combustion turbine,1.3
 nuclear,1
 hydro,1
 onshore wind,1
@@ -10,8 +10,8 @@ solar thermal,1
 biomass,1
 geothermal,1
 petroleum,1
-natural gas peaker,1
-lignite,1
+natural gas peaker,1.3
+lignite,1.3
 offshore wind,1
 crude oil,1
 heavy or residual fuel oil,1
