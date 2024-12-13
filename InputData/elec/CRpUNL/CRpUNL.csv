@@ -1,7 +1,7 @@
-﻿Unit: MW/($/MW),MW retired
-hard coal,0.03
-natural gas steam turbine,0.03
-natural gas combined cycle,0.035
+Unit: MW/($/MW),MW retired
+hard coal,0.04
+natural gas steam turbine,0.04
+natural gas combined cycle,0.04
 nuclear,0.03
 hydro,0
 onshore wind,0.03
@@ -9,7 +9,7 @@ solar PV,0.03
 solar thermal,0
 biomass,0
 geothermal,0
-petroleum,0
+petroleum,0.001
 natural gas peaker,0.03
 lignite,0.03
 offshore wind,0.03
